@@ -1,4 +1,5 @@
 ### Hi there, I'm Zoran 👋
+Glad to see you here!
 <div id="badges">
   <a href="https://www.linkedin.com/in/zoran-nikolov-1b6843110/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +9,6 @@
   </a>
 </div>
 
-Glad to see you here!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${zoran902}.${502871859})
 - 🔭 I’m currently working on delevoping new skills.
