@@ -1,6 +1,6 @@
 ### Hi there, I'm Zoran 👋
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 - 🔭 I’m currently working on delevoping new skills.
 - 🌱 I’m currently learning JavaScript,HTML and CSS.
 - ⚡ Fun fact: I love coding.
