@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Zoran 👋
 
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- 🔭 I’m currently working on delevoping new skills.
+- 🌱 I’m currently learning JavaScript,HTML and CSS.
+- ⚡ Fun fact: I love coding.
+- 💬 Ask me about anything! I am happy to help.
+- 📫 Reach me at: zoran902@gmail.com.
 <!--
 **zoran902/zoran902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
