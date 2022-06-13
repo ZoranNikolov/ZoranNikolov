@@ -9,7 +9,8 @@ Glad to see you here!
 - 💬 Ask me about anything! I am happy to help.
 - 📫 Reach me at: zoran902@gmail.com.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoran902&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoran902&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoran902)]
 <!--
 **zoran902/zoran902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
