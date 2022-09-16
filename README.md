@@ -13,7 +13,7 @@ Glad to see you here!
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${zoran902}.${502871859})
-- 🔭 I’m currently working on delevoping new skills.
+- 🔭 I’m currently working on delevoping new skills. I'm looking for internship with JS.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - ⚡ Fun fact: I love coding.
 - 💬 Ask me about anything! I am happy to help.
