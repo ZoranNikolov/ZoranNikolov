@@ -12,7 +12,7 @@ Glad to see you here!
   </a>
 </div>
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=${zoran902}.${502871859})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${zoran902}.${502871859})
 - 🔭 I’m currently working on delevoping new skills. I'm looking for internship with JS.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - ⚡ Fun fact: I love coding.
