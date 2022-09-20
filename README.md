@@ -25,13 +25,6 @@ Glad to see you here!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoran902&layout=compact&theme=cobalt&hide_border=true" />
 
-
-
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=zoran902&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zoran902)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **zoran902/zoran902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
