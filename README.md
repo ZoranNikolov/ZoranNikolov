@@ -13,7 +13,7 @@ Glad to see you here!
 </div>
 
 ![visits](https://komarev.com/ghpvc/?username=zoran902)
-- 🔭 I’m currently working on delevoping new skills. I'm also looking for internship with JS.
+- 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - ⚡ Fun fact: I love coding.
 - 💬 Ask me about anything! I am happy to help.
