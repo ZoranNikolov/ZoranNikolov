@@ -12,8 +12,6 @@ Glad to see you here!
   </a>
 </div>
 
-![Snake animation](https://github.com/zoran902/zoran902/blob/output/github-contribution-grid-snake.svg)
-
 ![visits](https://komarev.com/ghpvc/?username=zoran902)
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
