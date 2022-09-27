@@ -7,27 +7,27 @@ Glad to see you here!
   <a href="https://www.linkedin.com/in/zoran-nikolov-1b6843110/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://github.com/zoran902">
+ <a href="https://github.com/ZoranNikolov">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-![visits](https://komarev.com/ghpvc/?username=zoran902)
+![visits](https://komarev.com/ghpvc/?username=ZoranNikolov)
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - ⚡ Fun fact: I love coding.
 - 💬 Ask me about anything! I am happy to help.
 - 📫 Reach me at: zoran902@gmail.com.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zoran902&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ZoranNikolov&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoran902&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZoranNikolov&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoran902&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoranNikolov&layout=compact&theme=cobalt&hide_border=true" />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
-**zoran902/zoran902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZoranNikolov/ZoranNikolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
