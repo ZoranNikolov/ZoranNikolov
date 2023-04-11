@@ -14,7 +14,7 @@ Glad to see you here!
 
 ![visits](https://komarev.com/ghpvc/?username=ZoranNikolov)
 - 🔭 I'm currently looking for JavaScript internship.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning JavaScript, React HTML and CSS.
 - :dizzy: I'm open to new opportunities.
 - ⚡ Fun fact: I love coding.
 - 💬 Ask me about anything! I am happy to help.
