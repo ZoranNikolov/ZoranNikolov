@@ -18,7 +18,7 @@ Glad to see you here!
 - :dizzy: I'm open to new opportunities.
 - ⚡ Fun fact: I love coding.
 - 💬 Ask me about anything! I am happy to help.
-- 📫 Reach me at: zoran.nikolov.1990@gmail.com.
+- 📫 Reach me at: zoran.nikolov.1990@gmail.com
 
 **Languages and tools:**
 
