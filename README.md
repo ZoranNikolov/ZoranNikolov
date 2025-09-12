@@ -31,6 +31,8 @@ Glad to see you here!
 <img height="32" width="32" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp; 
 <img height="32" width="32" alt="Bootstrap" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/icons/bootstrap.svg" /> &nbsp; 
 <img height="32" width="32" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img height="32" width="32" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp; 
+<img height="32" width="32" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ZoranNikolov&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
